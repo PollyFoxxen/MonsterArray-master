@@ -1,0 +1,14 @@
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\bin\Debug\netcoreapp3.1\MonsterArray.exe
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\bin\Debug\netcoreapp3.1\MonsterArray.deps.json
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\bin\Debug\netcoreapp3.1\MonsterArray.runtimeconfig.json
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\bin\Debug\netcoreapp3.1\MonsterArray.runtimeconfig.dev.json
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\bin\Debug\netcoreapp3.1\MonsterArray.dll
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\bin\Debug\netcoreapp3.1\MonsterArray.pdb
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.csproj.AssemblyReference.cache
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.AssemblyInfoInputs.cache
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.AssemblyInfo.cs
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.dll
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.pdb
+C:\Users\Jonas\source\repos\MonsterArray\MonsterArray\obj\Debug\netcoreapp3.1\MonsterArray.genruntimeconfig.cache
